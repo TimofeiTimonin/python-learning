@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 tempCodeRunnerFile.py
+
+# Убедимся, что эти файлы игнорируются
+finance.db
+__pycache__/
